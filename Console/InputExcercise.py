@@ -12,4 +12,3 @@ print("--- Student information ---")
 print("Name:" +name)
 print("Gender:" +gender)
 print("Age:" +str(age))
-
